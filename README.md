@@ -6,3 +6,4 @@ Creating a new branch is quick&simple.
 feather1.
 >>>>>>> feature1
 Creating a new branch.
+this is a dev branch.
